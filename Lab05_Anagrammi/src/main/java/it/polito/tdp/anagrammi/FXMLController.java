@@ -62,7 +62,7 @@ public class FXMLController {
     	
     	
     
-    	//this.txtErrati.setText("Non funziona");
+    	
     }
 
     @FXML
